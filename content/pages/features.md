@@ -46,5 +46,6 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
+    title: okpok
 layout: advanced
 ---
