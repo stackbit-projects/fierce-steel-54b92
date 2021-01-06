@@ -7,19 +7,6 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
       - title: Feature 1
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -32,6 +19,19 @@ sections:
         actions:
           - label: Learn More
             url: /about
+            style: primary
+      - title: Feature 2
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        align: left
+        image: images/feature.svg
+        image_alt: Feature 2 placeholder image
+        image_position: left
+        actions:
+          - label: Learn More
+            url: /style-guide
             style: primary
       - title: Feature 3
         content: >-
